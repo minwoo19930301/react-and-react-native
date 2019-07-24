@@ -6,5 +6,5 @@
 the sources in js files are commited in javascript style.... convert to jsx files for raw react language
 
 
-[Image](logo-go.png)
+[Image](logo-og.png)
 ```
