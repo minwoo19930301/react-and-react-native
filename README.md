@@ -5,4 +5,4 @@
 
 the sources in js files are commited in javascript style.... convert to jsx files for raw react language
 
-<img src = "logo-og.png" width ="100" height="100">
+<img src = "logo-og.png" width ="500" height="400">
